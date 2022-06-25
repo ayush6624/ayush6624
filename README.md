@@ -1,5 +1,5 @@
 # Hello! 👋 
-I'm Ayush Goyal, IT undergrad @DTU/DCE. I love to solve problems with JavaScript 👨‍💻   
+I'm Ayush Goyal, IT undergrad @DTU/DCE. I love to solve problems with TypeScript 👨‍💻   
 Find me around the web 🌐 :
 - 🚀 [Personal website](https://ayushgoyal.dev) and [Blog](https://blog.ayushgoyal.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayush-goyal6624/)
